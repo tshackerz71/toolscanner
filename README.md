@@ -1,6 +1,6 @@
 # toolscanner
 
-TERMUX KI BAKCHODI
+TERMUX 
 
 pkg install git golang
 
