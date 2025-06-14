@@ -4,7 +4,7 @@ TERMUX
 
 pkg install git golang
 
-git clone https://github.com/yourusername/toolscanner.git
+git clone https://github.com/tshackerz71/toolscanner.git
 
 cd toolscanner
 
